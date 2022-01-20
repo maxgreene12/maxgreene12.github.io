@@ -4,6 +4,8 @@ margin: 0;
 
 margin-top: 50px;
 
+font-family: sans-serif; /* Add this line */
+
 }
 
  
@@ -78,6 +80,8 @@ text-align: center;
 
 width: 300px;
 
+border-radius: 50%; /* Add this line */
+
 }
 
  
@@ -87,5 +91,43 @@ footer {
 text-align: center;
 
 padding: 50px;
+
+}
+
+ 
+
+/* Add everything below here */
+
+ 
+
+#hero h1 {
+
+font-size: 3em;
+
+}
+
+ 
+
+section h2 {
+
+font-size: 2.5em;
+
+}
+
+ 
+
+section h3 {
+
+font-size: 1.5em;
+
+}
+
+ 
+
+header a {
+
+text-decoration: none;
+
+color: black;
 
 }
